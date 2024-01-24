@@ -7,7 +7,7 @@ This is an example Python project used in Daytona.
 Open the terminal and run:
 ```sh
 cd test-project
-python -u hello.py
+python3 -u hello.py
 ```
 Or just press the *Run Code* button found in the top right of the editor panel.
 ### Want to contribute?
